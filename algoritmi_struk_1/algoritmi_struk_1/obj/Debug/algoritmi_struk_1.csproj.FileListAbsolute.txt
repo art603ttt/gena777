@@ -1,0 +1,9 @@
+c:\users\arthas\documents\visual studio 2015\Projects\algoritmi_struk_1\algoritmi_struk_1\bin\Debug\algoritmi_struk_1.exe.config
+C:\Users\Arthas\documents\visual studio 2015\Projects\algoritmi_struk_1\algoritmi_struk_1\bin\Debug\algoritmi_struk_1.exe
+C:\Users\Arthas\documents\visual studio 2015\Projects\algoritmi_struk_1\algoritmi_struk_1\bin\Debug\algoritmi_struk_1.pdb
+C:\Users\Arthas\documents\visual studio 2015\Projects\algoritmi_struk_1\algoritmi_struk_1\obj\Debug\algoritmi_struk_1.csprojResolveAssemblyReference.cache
+C:\Users\Arthas\documents\visual studio 2015\Projects\algoritmi_struk_1\algoritmi_struk_1\obj\Debug\algoritmi_struk_1.Form1.resources
+C:\Users\Arthas\documents\visual studio 2015\Projects\algoritmi_struk_1\algoritmi_struk_1\obj\Debug\algoritmi_struk_1.Properties.Resources.resources
+C:\Users\Arthas\documents\visual studio 2015\Projects\algoritmi_struk_1\algoritmi_struk_1\obj\Debug\algoritmi_struk_1.csproj.GenerateResource.Cache
+C:\Users\Arthas\documents\visual studio 2015\Projects\algoritmi_struk_1\algoritmi_struk_1\obj\Debug\algoritmi_struk_1.exe
+C:\Users\Arthas\documents\visual studio 2015\Projects\algoritmi_struk_1\algoritmi_struk_1\obj\Debug\algoritmi_struk_1.pdb
